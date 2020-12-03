@@ -25,7 +25,7 @@ public class SearchZipcodeEx03 {
 			신사2 
 			...
 
-			Data : zipcode_seoul_utf8_type2.csv 
+			Data : zipcode_seoul_utf8_type2.xls 
 				우편번호,시도,구군,동,리,번지,번호
 			
 			입력값 검사
